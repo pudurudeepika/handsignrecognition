@@ -37,7 +37,7 @@ This project is about recognizing hand signs in real-time using a webcam and a d
 
 The system can detect and form words like “CALL” by recognizing each letter one by one from hand gestures.
 
-> _Add demo images or video here if you have any_
+![Screenshot 2025-04-12 114833](https://github.com/user-attachments/assets/8c2a0034-b61e-442e-8f54-acad1b20cbb6)
 
 ## ⚠️ Problems Faced
 
