@@ -33,6 +33,13 @@ This project is about recognizing hand signs in real-time using a webcam and a d
 - Output: 24 letters (A–Y, except J and Z)
 - Trained on a dataset of ASL hand signs
 
+  ## 📂 Dataset
+
+The dataset used for training the CNN model can be downloaded from the link below:
+
+🔗 [Download Dataset (Kaggle)](https://www.kaggle.com/datasets/ash2703/handsignimages)
+
+
 ## 📸 Example Output
 
 The system can detect and form words like “CALL” by recognizing each letter one by one from hand gestures.
