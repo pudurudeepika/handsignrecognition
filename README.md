@@ -39,6 +39,10 @@ The dataset used for training the CNN model can be downloaded from the link belo
 
 🔗 [Download Dataset (Kaggle)](https://www.kaggle.com/datasets/ash2703/handsignimages)
 
+## Model Performance
+The Hand Sign Recognition model achieved **96% test accuracy** on 7,172 samples across 24 ASL signs.
+<img width="600" height="410" alt="image" src="https://github.com/user-attachments/assets/8e1c7b2e-3145-4819-9a4d-f4e12ddac649" />
+
 
 ## 📸 Example Output
 
